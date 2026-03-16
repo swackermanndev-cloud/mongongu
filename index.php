@@ -1,5 +1,5 @@
 <?php
-$title = "S W Ackermann";
+$title = "S W Ackermann web developer";
 ?>
 
 <!DOCTYPE html>
